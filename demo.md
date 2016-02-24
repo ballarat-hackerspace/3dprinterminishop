@@ -33,6 +33,6 @@ We are going to print a variety of files (aim for 30-40 minute print time), with
 
 Making a 3D Print
 =================
-* Documentary on the projector to watch about 3D Printing
+* Documentary on the projector to watch about 3D Printing (Print the Legend? Anything else?)
 * Live Simplify3D Demonstration people can observe more technical side.
 - Simplify 3D Run through of how to do those things being printed, other common tips
